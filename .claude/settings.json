@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "defaultMode": "auto",
+    "allow": [
+      "Bash(*)",
+      "Read(C:\\Users\\bogol\\OneDrive\\Рабочий стол\\Visual Engineering\\PROJECTS\\OBSIDIAN\\**)",
+      "Write(C:\\Users\\bogol\\OneDrive\\Рабочий стол\\Visual Engineering\\PROJECTS\\OBSIDIAN\\**)",
+      "Edit(C:\\Users\\bogol\\OneDrive\\Рабочий стол\\Visual Engineering\\PROJECTS\\OBSIDIAN\\**)"
+    ]
+  }
+}
